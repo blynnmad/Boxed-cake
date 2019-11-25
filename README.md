@@ -24,6 +24,7 @@
         <li>Spread desired frosting on top of the cake when cooled to room temperature and enjoy!</li>
 
         </ol>
+        ![Box cake](https://user-images.githubusercontent.com/57307833/69511263-c8b3de80-0efc-11ea-8c9f-7e505e532dbf.jpg)
 
 
 
